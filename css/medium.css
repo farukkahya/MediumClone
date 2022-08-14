@@ -1,0 +1,84 @@
+body{
+    font-family: sohne, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+nav div ul li{
+    margin-right: 25px;
+}
+.sticky-sidebar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5rem;
+}
+.container .row span h1{
+    color: rgb(8, 8, 8);
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    letter-spacing: -0.05em;
+    line-height: 95px;
+    font-size: 106px;
+    font-weight: 400;
+    margin: 0;
+    box-sizing: inherit;
+    font-feature-settings: "pnum", "lnum";
+}
+.bosluk{
+    padding-top: 93px;
+    padding-bottom: 80px;
+}
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.border-top-dark{
+    border-top: 1px solid rgba(41, 41, 41, 1);
+}
+.btn-read{
+    font-size: 20px;
+    font-family: sohne, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    border-radius: 99em;
+    width: 213px;
+    padding: 7px 20px 9px;
+    line-height: 24px;
+    fill: rgb(255, 255, 255);
+}
+.btn-read:hover{
+    color: rgb(255, 255, 255);
+    border-color: rgb(41, 41, 41);
+    background-color: rgb(8, 8, 8) none repeat scroll 0% 0%;
+}
+.btn-nav-get{
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 99em;
+    background-color: rgb(25, 25, 25);
+}
+.category{
+    box-sizing: border-box;
+    border-radius: 99em;
+    background-color: #f4f4f4;
+}
+.category a{
+    text-decoration: none;
+}
+.category:hover{
+    background-color: #E6E6E6;
+}
+.number{
+    font-size: 30px;
+    font-family: sohne, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #E6E6E6;
+}
+.sidebar-border{
+    border-bottom: 1px solid rgb(216, 216, 216);
+}
+.sidebar-down a{
+    color: rgb(117, 117, 117);
+    margin-right: 26px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    text-decoration: none;
+}
